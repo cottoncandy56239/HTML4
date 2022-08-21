@@ -1,0 +1,24 @@
+h1{
+    color:blueviolet
+}
+h2{
+    color:crimson
+}
+
+.header{
+    background-color: aliceblue;
+    display:flex;
+    justify-content: space-between;
+}
+
+.games{
+    background-color: burlywood;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
